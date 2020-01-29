@@ -1,23 +1,22 @@
 ---
-title: 华为机型Flyme5历代版本更新日志及下载地址
+title: 华为机型 Flyme5 历代版本更新日志及下载地址
 categories:
   - ROM
   - Flyme
-  - 华为
+  - Huawei
 tags:
+  - Android
   - ROM
-  - Flyme
-  - 华为
 date: 2016-08-27 15:55:29
 ---
-华为机型Flyme5更新日志及下载地址
+华为机型 Flyme5更新日志及下载地址
 
 **作者:**  **Ry09iu**
 
 **最新版:** **Flyme 5.1.8.29R**
 
 **更新日期:** *2016年8月30日晚*
-<!-- more -->
+<!--more-->
 
 **更新日志:**
 ```
@@ -35,7 +34,6 @@ date: 2016-08-27 15:55:29
 优化 修改锁屏闹钟 UI
 ```
 **支持机型:**
----
 - 华为荣耀6全机型
 - 华为荣耀6 Plus
 - 华为荣耀4X
@@ -45,7 +43,6 @@ date: 2016-08-27 15:55:29
 - 华为P7
 
 **下载地址:**
----
 - 华为荣耀6全机型
 5.1.8.29: [*http://pan.baidu.com/s/1nvJEmTF*](http://pan.baidu.com/s/1nvJEmTF)
 5.1.8.22R: [*http://pan.baidu.com/s/1skLX6J7*](http://pan.baidu.com/s/1skLX6J7)

@@ -5,9 +5,8 @@ categories:
   - MIUI
   - MGK
 tags:
+  - Android
   - ROM
-  - MGK
-  - MIUI
 date: 2016-04-18 20:45:11
 ---
 MGK 开发版 6.4.15 已发布，欢迎大家下载刷入使用
@@ -15,11 +14,9 @@ MGK 开发版 6.4.15 已发布，欢迎大家下载刷入使用
 不了解MGK？点击这里解答你的疑惑 [*MGK 系列 ROM 简介*](http://ry09iu.coding.me/2016/04/06/about-mgk/)
 
 **本期版本号:** **6.4.15**
-<!-- more -->
+<!--more-->
 
----
 **官方更新日志:**
----
 ```
 【本周推荐】
 新增 通知短信卡片化，支持火车票、银行收支、信用卡账单等10类短信场景
@@ -51,14 +48,12 @@ MGK 开发版 6.4.15 已发布，欢迎大家下载刷入使用
 ```
 
 **本期个人更新日志:**
----
 ```
 本期跟随MIUI官方同步更新，无个人更新内容
 
 ```
 
 **本期支持机型:**
----
 - 小米2/2S
 - 小米3 联通/电信
 - 小米3 移动
@@ -71,7 +66,6 @@ MGK 开发版 6.4.15 已发布，欢迎大家下载刷入使用
 - 其他机型本期暂未提供更新
 
 **下载地址:**
----
 - 小米2/2S [*http://pan.baidu.com/s/1boIVnSN*](http://pan.baidu.com/s/1boIVnSN)
 - 小米3 联通/电信 [*http://pan.baidu.com/s/1miEjwZA*](http://pan.baidu.com/s/1miEjwZA)
 - 小米3 移动 [*http://pan.baidu.com/s/1o7G6UeA*](http://pan.baidu.com/s/1o7G6UeA)

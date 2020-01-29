@@ -1,23 +1,22 @@
 ---
-title: 一加手机3/3T MIUI 8 更新日志及下载地址
+title: 一加手机 3/3T MIUI 8 更新日志及下载地址
 categories:
   - ROM
   - MIUI
-  - 一加
+  - OnePlus
 tags:
+  - Android
   - ROM
-  - MIUI
-  - 一加
 date: 2016-10-29 21:51:36
 ---
-一加手机3/3T MIUI 8 更新日志及下载地址
+一加手机 3/3T MIUI 8 更新日志及下载地址
 
 **作者:**  **Ry09iu**
 
 **最新版:** **MIUI 8 7.1.11**
 
 **更新日期:** *2017年1月11日*
-<!-- more -->
+<!--more-->
 
 **更新日志:**
 ```
@@ -101,12 +100,10 @@ date: 2016-10-29 21:51:36
 
 ```
 **支持机型:**
----
 - 一加手机3
 - 一加手机3T
 
 **下载地址:**
----
 永久地址，以后新版也将更新到这里
 - 一加手机3 [*http://pan.baidu.com/s/1dFwr8ch*](http://pan.baidu.com/s/1dFwr8ch) - 7.1.11
 - 一加手机3T [*https://pan.baidu.com/s/1i5JStLj*](https://pan.baidu.com/s/1i5JStLj) - 7.1.11

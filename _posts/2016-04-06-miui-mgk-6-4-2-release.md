@@ -5,9 +5,8 @@ categories:
   - MIUI
   - MGK
 tags:
+  - Android
   - ROM
-  - MGK
-  - MIUI
 date: 2016-04-06 14:53:12
 ---
 MGK 开发版 6.4.2 已发布，欢迎大家下载刷入使用
@@ -15,11 +14,9 @@ MGK 开发版 6.4.2 已发布，欢迎大家下载刷入使用
 不了解MGK？点击这里解答你的疑惑 [*MGK 系列 ROM 简介*](http://ry09iu.coding.me/2016/04/06/about-mgk/)
 
 **本期版本号:** **6.4.2**
-<!-- more -->
+<!--more-->
 
----
-<font size=4>**官方更新日志:**
----
+**官方更新日志:**
 ```
 【本周推荐】
 新增 日历支持从短信中导入信用卡账单并提醒
@@ -43,21 +40,18 @@ MGK 开发版 6.4.2 已发布，欢迎大家下载刷入使用
 新增 私密模式。跟亲爱的TA说说悄悄话
 ```
 
-<font size=4>**本期个人更新日志:**
----
+**本期个人更新日志:**
 ```
 本期无个人更新内容，仅跟随MIUI官方内容同步更新
 ```
 
-<font size=4>**本期支持机型:**
----
+**本期支持机型:**
 - 小米3 联通/电信
 - 小米4 联通/移动
 - 小米Note 标准版
 - 其他机型本期暂未提供更新
 
-<font size=4>**下载地址:**
----
+**下载地址:**
 - 小米3 联通/电信 [*http://pan.baidu.com/s/1dFBFiLj*](http://pan.baidu.com/s/1dFBFiLj)
 - 小米4 联通/移动/电信3G [*http://pan.baidu.com/s/1dFBFiLj*](http://pan.baidu.com/s/1dFBFiLj)
 - 小米Note 标准版 [*http://pan.baidu.com/s/1qY7oZta*](http://pan.baidu.com/s/1qY7oZta)

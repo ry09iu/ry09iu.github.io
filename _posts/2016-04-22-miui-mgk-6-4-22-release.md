@@ -5,9 +5,8 @@ categories:
   - MIUI
   - MGK
 tags:
+  - Android
   - ROM
-  - MGK
-  - MIUI
 date: 2016-04-22 20:45:11
 ---
 MGK 开发版 6.4.22 已发布，欢迎大家下载刷入使用
@@ -15,10 +14,9 @@ MGK 开发版 6.4.22 已发布，欢迎大家下载刷入使用
 不了解MGK？点击这里解答你的疑惑 [*MGK 系列 ROM 简介*](http://ry09iu.coding.me/2016/04/06/about-mgk/)
 
 **本期版本号:** **6.4.22**
-<!-- more -->
+<!--more-->
 
 **官方更新日志:**
----
 ```
 【本周推荐】
 新增 垃圾清理 腾讯扫描引擎，双引擎选择，清理垃圾更干净
@@ -47,14 +45,12 @@ MGK 开发版 6.4.22 已发布，欢迎大家下载刷入使用
 ```
 
 **本期个人更新日志:**
----
 ```
 修复MGK5.0/6.0系列机型色温调节失效的问题
 
 ```
 
 **本期支持机型:**
----
 - 小米2/2S
 - 小米3 联通/电信
 - 小米3 移动
@@ -67,7 +63,6 @@ MGK 开发版 6.4.22 已发布，欢迎大家下载刷入使用
 - 其他机型本期暂未提供更新
 
 **下载地址:**
----
 - 小米2/2S [*http://pan.baidu.com/s/1jHQOKAE*](http://pan.baidu.com/s/1jHQOKAE)
 - 小米3 联通/电信 [*http://pan.baidu.com/s/1cyUZvw*](http://pan.baidu.com/s/1cyUZvw)
 - 小米3 移动 [*http://pan.baidu.com/s/1gfPPkH1*](http://pan.baidu.com/s/1gfPPkH1)

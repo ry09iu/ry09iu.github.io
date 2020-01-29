@@ -5,14 +5,12 @@ categories:
   - MIUI
   - IUNI
 tags:
+  - Android
   - ROM
-  - MGK
-  - IUNI
-  - MIUI
 date: 2016-04-18 18:35:58
 ---
 整理了部分IUNI U3 MIUI在使用过程中遇到的一些问题及解答，有问题的可以查阅下
-<!-- more -->
+<!--more-->
 <font size=3 color=green>1. 虚拟键是否支持隐藏，是否支持按键位置调整？
 ---
 答：设置-IUNI高级设置中进行开启；支持按键位置调整，方法：设置-其他高级设置-按键

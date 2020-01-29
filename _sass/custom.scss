@@ -1,3 +1,78 @@
 /* start custom scss snippet */
+@font-face {
+  font-family: 'Ubuntu';
+  src: url(./fonts/Ubuntu-R.ttf);
+}
 
+@font-face {
+  font-family: 'Ubuntu Italic';
+  src: url(./fonts/Ubuntu-RI.ttf);
+}
+
+@font-face {
+  font-family: 'Ubuntu Medium';
+  src: url(./fonts/Ubuntu-M.ttf);
+}
+
+@font-face {
+  font-family: 'Ubuntu Medium Italic';
+  src: url(./fonts/Ubuntu-MI.ttf);
+}
+
+@font-face {
+  font-family: 'Ubuntu Bold';
+  src: url(./fonts/Ubuntu-B.ttf);
+}
+
+@font-face {
+  font-family: 'Ubuntu Bold Italic';
+  src: url(./fonts/Ubuntu-BI.ttf);
+}
+
+body {
+  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+}
+
+.article__header h1 {
+  font-family: 'Ubuntu Medium', Helvetica, Arial, sans-serif;
+}
+
+a,
+a:active,
+a:hover,
+a:link,
+a:visited {
+  text-decoration: none !important;
+}
+
+a > .item__header,
+a > .item__header:link,
+a > .item__header:visited,
+a.item__header,
+a.item__header:link,
+a.item__header:visited,
+.item__header > a,
+.item__header > a:link,
+.item__header > a:visited {
+  font-family: 'Ubuntu Medium', Helvetica, Arial, sans-serif;
+  text-decoration: none !important;
+}
+
+.archive__list-item {
+  font-family: 'Ubuntu', Helvetica, Arial, sans-serif !important;
+}
+
+.button--pill {
+  font-family: 'Ubuntu Medium', Helvetica, Arial, sans-serif;
+}
+
+.button--secondary,
+.button--secondary:link,
+.button--secondary:visited {
+  font-family: 'Ubuntu Medium', Helvetica, Arial, sans-serif;
+}
+
+pre, code {
+  font-family: Monaco, Menlo, Consolas, Andale Mono, lucida console, Courier New, monospace;
+}
 /* end custom scss snippet */

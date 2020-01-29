@@ -5,32 +5,31 @@ categories:
   - MIUI
   - IUNI
 tags:
+  - Android
   - ROM
-  - MGK
-  - IUNI
-  - MIUI
 date: 2016-04-18 18:26:07
 ---
 整理了IUNI U3 MIUI7 历代版本更新日志，欢迎查看
 
-| ROM名称        | MIUI 7           
-| ------------- |:-------------:
-| Android版本   | 4.4.4 
-| 适配机型 	| IUNI U3   
-| ROM作者 	| Ry09iu
-| 特别鸣谢 	| 感谢MIUI官方开源适配项目
-| 其他		| 更多精彩及更新动态可关注本人新浪微博 [*@Ry09iu*](http://weibo.com/zuhdroid) 
-<!-- more -->
-<font size=4>**刷前须知**
----
+|---
+| ROM名称 | MIUI 7   
+|-|:-|:-:|-:
+| Android版本 | 4.4.4 
+| 适配机型 | IUNI U3   
+| ROM作者 | Ry09iu
+| 特别鸣谢 | 感谢MIUI官方开源适配项目
+| 其他 | 更多精彩及更新动态可关注本人新浪微博 [*@Ry09iu*](http://weibo.com/zuhdroid)
+|===
+
+<!--more-->
+
+## 刷前须知
 必须使用第三方recovery刷入，比如 [*http://pan.baidu.com/s/1pJr9VpL*](http://pan.baidu.com/s/1pJr9VpL) ，具体方法同刷其他第三方ZIP包
 
-<font size=4>**交流群**
----
+## 交流群
 IUNI U3 第三方ROM交流群 - 群号**424629740**
 
-<font size=4>**更新日志**
----
+## 更新日志
 ```
 【6.4.27】
 

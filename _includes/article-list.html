@@ -104,7 +104,7 @@
           {%- if include.show_info -%}
             <span class="item__meta">{{ _article.date | date: __return }}</span>
           {%- endif -%}
-          <a itemprop="headline" class="item__header" href="{{ _article_url }}">{{ _article.title }}</a></div>
+          <a itemprop="headline" class="item__header archive__list-item" href="{{ _article_url }}">{{ _article.title }}</a></div>
       </li>
 
     {%- elsif include.type == 'grid' -%}
