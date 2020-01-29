@@ -21,8 +21,10 @@ tags:
 
 ![练习1.gif](https://raw.githubusercontent.com/ry09iu/ry09iu.github.io/master/assets/images/web/js3_1.gif)
 
-#### 完整代码
+## 完整代码
+
 JavaScript 原生代码
+
 ```
 <!DOCTYPE html>
 <html>
@@ -185,7 +187,9 @@ JavaScript 原生代码
   </body>
 </html>
 ```
-jQuery 代码
+
+## jQuery 代码
+
 ```
 <!DOCTYPE html>
 <html>
