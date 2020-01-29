@@ -25,7 +25,7 @@ tags:
 
 JavaScript 原生代码
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -190,7 +190,7 @@ JavaScript 原生代码
 
 ## jQuery 代码
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
