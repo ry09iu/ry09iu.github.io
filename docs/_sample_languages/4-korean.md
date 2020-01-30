@@ -8,7 +8,7 @@ lang: ko
 
 한국어.
 
-<!--more-->
+<!-- more -->
 
 *_config.yml* or front matter:
 

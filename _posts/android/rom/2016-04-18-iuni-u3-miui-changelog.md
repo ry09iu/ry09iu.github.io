@@ -21,7 +21,7 @@ date: 2016-04-18 18:26:07
 | 其他 | 更多精彩及更新动态可关注本人新浪微博 [*@Ry09iu*](http://weibo.com/zuhdroid)
 |===
 
-<!--more-->
+<!-- more -->
 
 ## 刷前须知
 必须使用第三方recovery刷入，比如 [*http://pan.baidu.com/s/1pJr9VpL*](http://pan.baidu.com/s/1pJr9VpL) ，具体方法同刷其他第三方ZIP包

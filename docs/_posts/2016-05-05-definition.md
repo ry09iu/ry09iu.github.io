@@ -10,7 +10,7 @@ kramdown
 Maruku
 :     Another Markdown-superset converter
 
-<!--more-->
+<!-- more -->
 
 **markdown:**
 

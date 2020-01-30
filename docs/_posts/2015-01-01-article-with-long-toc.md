@@ -6,7 +6,7 @@ tags: Test
 
 Article with long TOC.
 
-<!--more-->
+<!-- more -->
 
 ## TeXt Heading
 

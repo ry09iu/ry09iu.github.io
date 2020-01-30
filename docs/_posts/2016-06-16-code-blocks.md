@@ -16,7 +16,7 @@ in the output!).
 (() => console.log('hello, world! hello, world! hello, world! hello, world! hello, world! hello, world! hello, world! hello, world!'))();
 ```
 
-<!--more-->
+<!-- more -->
 
 **markdown:**
 

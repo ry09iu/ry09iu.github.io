@@ -5,6 +5,7 @@
   "scripts": {
     "build": "cross-env JEKYLL_ENV=production bundle exec jekyll build",
     "serve": "bundle exec jekyll serve -H 0.0.0.0",
+    "watch": "bundle exec jekyll serve --force_polling",
     "Gemfile.lock": "docker run --rm -v \"$PWD\":/usr/src/app -w /usr/src/app ruby:2.6 bundle install",
     "docker-dev:build-image": "docker-compose -f ./docker/docker-compose.build-image.yml build",
     "docker-dev:default": "docker-compose -f ./docker/docker-compose.default.yml up",

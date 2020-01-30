@@ -1,10 +1,12 @@
 ---
 layout: article
 title: '[JavaScript 实例] 隔行变色、复选框操作及节点删除等练习'
-key: web_20181226_1
-category: Web
+date: 2018.12.26 12:38:04
+key: jsdemo_20181226_1
+category: 
+- Web 
+- Jsdemo
 tags:
-- 前端开发
 - JS 实例
 ---
 
@@ -17,9 +19,9 @@ tags:
 3. className 的设置
 4. 父节点的获取及子节点的删除
 
-<!--more-->
+<!-- more -->
 
-![练习1.gif](https://raw.githubusercontent.com/ry09iu/ry09iu.github.io/master/assets/images/web/js3_1.gif)
+![练习1.gif](https://raw.githubusercontent.com/ry09iu/ry09iu.github.io/master/assets/images/web/jsdemo/js3_1.gif)
 
 ## 完整代码
 

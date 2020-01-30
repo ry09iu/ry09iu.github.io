@@ -8,7 +8,7 @@ lang: en
 
 English.
 
-<!--more-->
+<!-- more -->
 
 *_config.yml* or front matter:
 

@@ -8,7 +8,7 @@ With the help of extensions, you can easily add **audios**, **videos**, **slides
 
 <div>{%- include extensions/ted.html id='emily_esfahani_smith_there_s_more_to_life_than_being_happy' -%}</div>
 
-<!--more-->
+<!-- more -->
 
 [Documentation](https://tianqi.name/jekyll-TeXt-theme/docs/en/extensions)
 

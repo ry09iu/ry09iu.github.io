@@ -15,7 +15,7 @@ article_header:
 
 繁體中文。
 
-<!--more-->
+<!-- more -->
 
 <style>
   .page__header .header__brand path {

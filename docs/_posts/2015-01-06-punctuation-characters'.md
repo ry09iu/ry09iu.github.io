@@ -20,7 +20,7 @@ tags:
 
 Unicode characters
 
-<!--more-->
+<!-- more -->
 
 ## Basic Latin
 

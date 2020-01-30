@@ -7,7 +7,7 @@ modify_date: 2017-09-09
 
 Article with modify date.
 
-<!--more-->
+<!-- more -->
 
 **front matter:**
 

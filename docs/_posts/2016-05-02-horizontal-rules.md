@@ -6,7 +6,7 @@ tags: Jekyll
 
 * * *
 
-<!--more-->
+<!-- more -->
 
     * * *
 

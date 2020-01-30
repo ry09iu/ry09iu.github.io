@@ -8,7 +8,7 @@ tags: Jekyll
 >
 > —Hamlet in *Hamlet*
 
-<!--more-->
+<!-- more -->
 
 **markdown:**
 

@@ -37,7 +37,7 @@ Success!
 </div>
 </div>
 
-<!--more-->
+<!-- more -->
 
 [Documentation](https://tianqi.name/jekyll-TeXt-theme/docs/en/additional-styles)
 
