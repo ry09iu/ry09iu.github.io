@@ -8,6 +8,7 @@ category:
 - note
 tags:
 - 前端开发
+- JavaScript
 ---
 
 关于 JS 函数的继承总结

@@ -8,6 +8,7 @@ category:
 - note
 tags:
 - 前端开发
+- JavaScript
 ---
 
 React 和 Vue 两大框架之间的相爱相杀，他们之间到底有哪些区别？

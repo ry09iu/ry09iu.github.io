@@ -8,6 +8,7 @@ category:
 - note
 tags:
 - 前端开发
+- JavaScript
 ---
 
 前端面试时几个常见的手写函数总结
