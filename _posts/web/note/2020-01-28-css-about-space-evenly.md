@@ -11,7 +11,7 @@ tags:
 - HTML/CSS
 ---
 
-本文讨论下部分浏览器使用CSS 属性 space-evenly 无效的解决方案
+本文讨论下部分浏览器使用CSS 属性`space-evenly`无效的解决方案
 
 <!-- more -->
 

@@ -4,8 +4,8 @@ title: 'Jekyll 静态博客搭建踩坑记录'
 date: 2020-1-30 15:15
 key: macos_20200130_1
 category: 
-- Web 
-- Jsdemo
+- note 
+- jekyll
 tags:
 - 学习笔记
 - Jekyll
