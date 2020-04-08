@@ -48,3 +48,9 @@ tags:
 
 修改字段名称
 `alter table env_boqing change ver version varchar(50) default null`
+
+根据条件统计总数
+`select count(status=1 or null) as totalNum from stattest`
+
+查看表结构
+`desc table_name`
