@@ -15,7 +15,7 @@ tags:
 
 <!-- more -->
 
-在 MySQL 配置文件中加入 timezone: '08:00'
+在 MySQL 配置文件中加入`timezone: '08:00'`
 
 ```javascript
 mysql: {
